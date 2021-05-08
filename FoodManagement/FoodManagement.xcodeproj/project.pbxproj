@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		660BB95C264524780098D6A5 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 660BB95B264524780098D6A5 /* RatingControl.swift */; };
+		660BB95E2646959F0098D6A5 /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 660BB95D2646959F0098D6A5 /* MealTableViewController.swift */; };
 		667AA8832629912C005BA7E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667AA8822629912C005BA7E5 /* AppDelegate.swift */; };
 		667AA8852629912C005BA7E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667AA8842629912C005BA7E5 /* ViewController.swift */; };
 		667AA8882629912C005BA7E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667AA8862629912C005BA7E5 /* Main.storyboard */; settings = {ASSET_TAGS = (labe, ); }; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		660BB95B264524780098D6A5 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		660BB95D2646959F0098D6A5 /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
 		667AA87F2629912C005BA7E5 /* FoodManagement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodManagement.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		667AA8822629912C005BA7E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		667AA8842629912C005BA7E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				667AA8822629912C005BA7E5 /* AppDelegate.swift */,
 				667AA88E26299131005BA7E5 /* Info.plist */,
 				667AA88926299131005BA7E5 /* Assets.xcassets */,
+				660BB95D2646959F0098D6A5 /* MealTableViewController.swift */,
 			);
 			path = FoodManagement;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				667AA8852629912C005BA7E5 /* ViewController.swift in Sources */,
 				660BB95C264524780098D6A5 /* RatingControl.swift in Sources */,
+				660BB95E2646959F0098D6A5 /* MealTableViewController.swift in Sources */,
 				667AA8832629912C005BA7E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
